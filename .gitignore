@@ -135,3 +135,4 @@ data/
 artifacts/
 /data
 /artifacts
+tmp/
